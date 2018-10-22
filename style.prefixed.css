@@ -27,5 +27,6 @@ p:hover {
 	filter: drop-shadow(10px 8px 4px #2c3e50);
 }
 div {
+	display: -ms-flexbox;
 	display: flex;
 }
