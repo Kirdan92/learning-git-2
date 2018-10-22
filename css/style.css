@@ -26,7 +26,8 @@ p {
 p:hover {
 	filter: drop-shadow(10px 8px 4px #2c3e50);
 }
-div {
+.test {
 	display: -ms-flexbox;
 	display: flex;
+	color: red;
 }
